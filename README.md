@@ -9,5 +9,5 @@ pip install numpy
 # Matplotlib
 pip install matplotlib
 
-# Tkinter（Python標準ライブラリなので通常は不要ですが、Ubuntuの場合は以下でインストール）
+# Tkinter（Python標準ライブラリなので通常は不要、Ubuntuの場合は以下でインストール）
 sudo apt-get install python3-tk
