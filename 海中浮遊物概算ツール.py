@@ -126,7 +126,7 @@ def process_video():
 # Tkinterウィンドウを設定
 root = Tk()
 root.title("海中浮遊物概算ツールv3")
-root.geometry("400x400")
+root.geometry("400x500")
 
 # GUI要素
 Label(root, text="深度を入力").pack(pady=5)
