@@ -18,6 +18,8 @@ sudo apt-get install python3-tk
 ・明るいところ飲み切り抜いてもまずい
 
 ・ポールがあったりした場合は、ポールの部分を切り取るとかして、過不足なくライトで照らされている範囲の動画に編集してください。
+
+・前例集https://drive.google.com/drive/folders/1S4Y21baL3YAeLcbYG05tcdIBCin6q1vk?usp=sharing
 # 大まかな仕組み
 1. 動画ファイルの選択
 TkinterのGUIで動画ファイルを選択します。
