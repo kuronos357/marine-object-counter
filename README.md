@@ -65,3 +65,7 @@ extract_frames関数で、intervalごとにフレームを抽出します。
 # 出力ファイルの使い方
 (事前に入力したファイル名)の行をコピーして、他の深度のデータもある親ファイルに新規の行として貼り付けると
 行番号がそのまま震度と比例してるから（１行５ｍとかだった気がする）そのまま比較できる。
+
+# 質問・問題等
+https://github.com/kuronos357/marine-object-counter/issues/new
+ここからissuesを頼みます。
