@@ -88,3 +88,4 @@ extract_frames関数で、intervalごとにフレームを抽出します。
 # 要望・質問・問題等
 https://github.com/kuronos357/marine-object-counter/issues/new
 ここからissuesを頼みます。
+コードの改変も歓迎です。ブランチを作ってpushしてください
