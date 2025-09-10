@@ -291,7 +291,7 @@ result_label = Label(root, text="")
 result_label.pack(pady=5)
 
 # 処理後に特定の深度の画像を表示するためのGUI要素
-depth_view_label = Label(root, text="表示方法を選択し、値を入力 (処理後に有効化)", state='disabled')
+depth_view_label = Label(root, text="表示方法を選択し、値を入力", state='disabled')
 depth_view_label.pack(pady=5)
 
 input_mode = StringVar(value="depth")
