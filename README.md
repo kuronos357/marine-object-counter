@@ -46,24 +46,24 @@ origin/main の更新を、自分の作業中の main ブランチに統合し�
 またここからはvscode限定ですが、一応GUIベースの方法も載せます。
 vscodeの左上にこういうアイコンたちがあると思います。
 
-![alt text](image.png)
+![alt text](REDME/image.png)
 
 その中の、
 
-![alt text](image-1.png)
+![alt text](REDME/image-1.png)
 
 このアイコンを選択してください。
 
 更新があれば、`ソース管理・変更`のところにこのような表示がされていると思います。
 
-![alt text](image-2.png)
+![alt text](REDME/image-2.png)
 
 そうしたら、説明通りに更新のボタンを押下してください。
 
 ## データ入力
 コードを実行すると、ウィンドウが出てくると思います。
 
-![画像はイメージ、更新で変わってるかもしれない。](image-3.png)
+![画像はイメージ、更新で変わってるかもしれない。](REDME/image-3.png)
 
 まあ、説明のとおりに
 
