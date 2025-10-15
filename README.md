@@ -5,16 +5,21 @@ pythonとgitがインストールしてあり、実行できる状態
 
 あとできればエディタはvscode
 # 必要なライブラリとそのインストールコマンド
+
+## 一括インストール
+ダウンロードしたディレクトリに移動してから、
+
+    python3 -m pip install -r requirements.txt
+
 ## OpenCV
-pip install opencv-python
+    pip install opencv-python
 ## NumPy
-pip install numpy
+    pip install numpy
 ## Matplotlib
-pip install matplotlib
+    pip install matplotlib
 ## Tkinter[^1]
 [^1]: （Python標準ライブラリなので通常は不要、Ubuntuの場合は以下でインストール）
-
-sudo apt-get install python3-tk
+    sudo apt-get install python3-tk
 
 # アプリの使い方
 ## 導入方法
